@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "polyglot-virtual-machine",
+    "title": "Polyglot Virtual Machine",
+    "date": 1541689831150,
+    "synopsis": "[[GraalVM]] is a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Kotlin, and LLVM-based languages such as C and C++."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Welcome Visitors",
+    "date": 1541692455437,
+    "synopsis": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate...."
+  }
+]
